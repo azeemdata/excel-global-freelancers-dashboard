@@ -41,3 +41,4 @@ This project analyses a global freelancers dataset using Excel, focusing on data
 ## 📈 Dashboard & Analysis
 ![Excel Dashboard](03-dashboard.jpg)
 
+
