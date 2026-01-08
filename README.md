@@ -33,11 +33,11 @@ This project analyses a global freelancers dataset using Excel, focusing on data
 ## 📂 Data Preparation
 
 ### Raw Data
-![Raw Data](screenshots/01-raw-data.jpg)
+![Raw Data](01-raw-data.jpg)
 
 ### Cleaned Data
-![Cleaned Data](screenshots/02-cleaned-data.jpg)
+![Cleaned Data](02-cleaned-data.jpg)
 
 ## 📈 Dashboard & Analysis
-![Excel Dashboard](screenshots/03-dashboard.jpg)
+![Excel Dashboard](03-dashboard.jpg)
 
