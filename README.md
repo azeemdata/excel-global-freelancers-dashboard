@@ -28,4 +28,15 @@ This project analyses a global freelancers dataset using Excel, focusing on data
 - Data cleaning and preparation in Excel  
 - Pivot tables and slicers  
 - Dashboard design and storytelling  
-- Communicating insights to non-technical audiences  
+- Communicating insights to non-technical audiences
+
+- ## 📂 Data Preparation
+
+### Raw Data
+![Raw Data](screenshots/01-raw-data.jpg)
+
+### Cleaned Data
+![Cleaned Data](screenshots/02-cleaned-data.jpg)
+
+## 📈 Dashboard & Analysis
+![Excel Dashboard](screenshots/03-dashboard.jpg)
