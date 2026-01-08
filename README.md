@@ -30,7 +30,7 @@ This project analyses a global freelancers dataset using Excel, focusing on data
 - Dashboard design and storytelling  
 - Communicating insights to non-technical audiences
 
-- ## 📂 Data Preparation
+## 📂 Data Preparation
 
 ### Raw Data
 ![Raw Data](screenshots/01-raw-data.jpg)
@@ -40,3 +40,4 @@ This project analyses a global freelancers dataset using Excel, focusing on data
 
 ## 📈 Dashboard & Analysis
 ![Excel Dashboard](screenshots/03-dashboard.jpg)
+
